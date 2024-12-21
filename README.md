@@ -10,3 +10,4 @@ Link Dashboard : https://lookerstudio.google.com/reporting/d0ec716e-ed52-4700-bd
 2.  The result can filtered by tps and rw
 3.  The data source is from google sheet with 15 minutes update automatically.
 
+![image](https://github.com/user-attachments/assets/7b6f9faf-04ba-4ab2-9939-6d2a19155999)
